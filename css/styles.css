@@ -33,11 +33,14 @@ p{
     
     
 }
-
+.mountain-img{
+width:60%;        
+}
 .bottom-cloud{
+    width:15%;
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 10%;
+    bottom: 45%;
 }
 .top-container {
     background-color: rgba(241, 241, 241, 0.89);
@@ -58,10 +61,12 @@ p{
     
 }
 .top-cloud {
+    width:15%;
     position: absolute;
-   right: 300px;
-   top: 50px;
+    right: 10%;
+    top: 10%;
 }
+
     span {
         text-decoration: underline;
     }
